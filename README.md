@@ -13,7 +13,7 @@
 
 <!-- Visual Representation -->
 <p align="center">
-    <img src="https://media.licdn.com/dms/image/C4E16AQFIcY1M-woYyw/profile-displaybackgroundimage-shrink_350_1400/0/1654784927697?e=1707350400&v=beta&t=IN-GnCGNaLFetKNC6aLLk337JTbWBJhawNJ15yz945E" alt="Software Development Projects">
+    <img src="[[https://media.licdn.com/dms/image/C4E16AQFIcY1M-woYyw/profile-displaybackgroundimage-shrink_350_1400/0/1654784927697?e=1707350400&v=beta&t=IN-GnCGNaLFetKNC6aLLk337JTbWBJhawNJ15yz945E](https://blogs.masterhacks.net/wp-content/uploads/2023/03/sistemas.jpeg)](https://blogs.masterhacks.net/wp-content/uploads/2023/03/sistemas.jpeg)" alt="Software Development Projects">
 </p>
 
 ## 🚀 Projects
